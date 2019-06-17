@@ -38,17 +38,17 @@ export const categories = [
 export const skills = [
   {
     title: 'Javascript',
-    compentency: 5,
+    compentency: 4,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
     title: 'Node.JS',
-    compentency: 5,
+    compentency: 4,
     category: ['Web Development', 'Frameworks', 'Javascript'],
   },
   {
     title: 'React',
-    compentency: 4,
+    compentency: 5,
     category: ['Web Development', 'Frameworks', 'Javascript'],
   },
   {
@@ -58,7 +58,7 @@ export const skills = [
   },
   {
     title: 'Bootstrap',
-    compentency: 5,
+    compentency: 4,
     category: ['Web Development', 'Frameworks'],
   },
   {
@@ -93,7 +93,7 @@ export const skills = [
   },
   {
     title: 'Express.JS',
-    compentency: 5,
+    compentency: 4,
     category: ['Web Development', 'Frameworks', 'Javascript'],
   },
   {
@@ -128,12 +128,12 @@ export const skills = [
   },
   {
     title: 'SASS/SCSS',
-    compentency: 5,
+    compentency: 4,
     category: ['Web Development', 'Languages'],
   },
   {
     title: 'LESS',
-    compentency: 5,
+    compentency: 4,
     category: ['Web Development', 'Languages'],
   },
   {

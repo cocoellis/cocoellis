@@ -7,7 +7,7 @@ const degrees = [
     },
     {
       school: 'Washington and Lee University',
-      degree: 'M.S. Economics and Business Administration',
+      degree: 'B.S. Economics and Business Administration',
       link: 'https://wlu.edu',
       year: 2016,
     }, 
