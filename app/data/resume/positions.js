@@ -1,10 +1,23 @@
 
 const positions = [
+    {
+    company: 'iSeatz',
+    position: 'Technical Project Manager',
+    link: 'https://iseatz.com',
+    daterange: 'May 2019 - August 2020',
+    points: ['Used TypeScript, Python, Inky, SQL, and other languages to build the rasa.io self-service platform',
+    'Led the UI/UX team by creating lo-fi wireframes, designs, and style guides for the rasa.io platform',
+    'Established best practice guides for the entire front-end codebase',
+    'Developed Google Analytics dashboards to track user behavior on various components of the platform',
+    'Used React Native to create the rasa.io mobile app on iOS and Android',
+    'Led daily scrum for the entire development team and served as Scrum Master',
+    ],
+  },
   {
     company: 'iSeatz',
     position: 'Technical Project Manager',
     link: 'https://iseatz.com',
-    daterange: 'March 2018 - March 2019',
+    daterange: 'March 2018 - April 2019',
     points: ['Software development project manager in charge of delivering a multimillion-dollar portfolio of projects for new iSeatz partners', 
     'Building project management processes (Waterfall, Scrum/Agile and Hybrid)', 
     'Initiating and planning the project by establishing its format, direction, and baselines that allow for variance measurements and change control',
