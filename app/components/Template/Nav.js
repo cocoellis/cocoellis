@@ -21,8 +21,8 @@ const Nav = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hey! I&apos;m Coco. I love building things.
-            I am a <a href="https://wlu.edu">Washington and Lee</a> graduate, <a href="https://bloc.io">Bloc</a> Alumni, and
-            design enthusiast. I have worked at two of New Orleans' top tech companies: <a href="http://luc.id">Lucid</a> and <a href="http://iseatz.com">iSeatz</a>.
+            I am a <a href="https://wlu.edu">Washington and Lee</a> graduate, <a href="https://bloc.io">Thinkful</a> Alumni, and
+            design enthusiast. I have worked at three of New Orleans' top tech companies: <a href="http://rasa.io">rasa.io,</a><a href="http://luc.id"> Lucid</a> and <a href="http://iseatz.com">iSeatz</a>.
       </p>
       <ul className="actions">
         <li>
