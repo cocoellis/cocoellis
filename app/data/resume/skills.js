@@ -38,7 +38,7 @@ export const categories = [
 export const skills = [
   {
     title: 'Javascript',
-    compentency: 4,
+    compentency: 5,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
@@ -83,7 +83,7 @@ export const skills = [
   },
   {
     title: 'PostgreSQL',
-    compentency: 3,
+    compentency: 5,
     category: ['Web Development', 'Databases'],
   },
   {
@@ -98,7 +98,7 @@ export const skills = [
   },
   {
     title: 'Product Development',
-    compentency: 3,
+    compentency: 4,
     category: ['Other'],
   },
   {
@@ -108,12 +108,12 @@ export const skills = [
   },
   {
     title: 'Git',
-    compentency: 3,
+    compentency: 4,
     category: ['Tools'],
   },
   {
     title: 'Typescript',
-    compentency: 3,
+    compentency: 5,
     category: ['Web Development', 'Languages'],
   },
   {
@@ -148,12 +148,12 @@ export const skills = [
   },
   {
     title: 'Lightroom',
-    compentency: 5,
+    compentency: 3,
     category: ['Design'],
   },
   {
     title: 'InDesign',
-    compentency: 2,
+    compentency: 4,
     category: ['Design'],
   },
   {
@@ -163,7 +163,7 @@ export const skills = [
   },
   {
     title: 'Visualization',
-    compentency: 4,
+    compentency: 5,
     category: ['Data Science', 'Javascript'],
   },
   {
