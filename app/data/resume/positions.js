@@ -1,9 +1,9 @@
 
 const positions = [
     {
-    company: 'iSeatz',
-    position: 'Technical Project Manager',
-    link: 'https://iseatz.com',
+    company: 'rasa.io',
+    position: 'Software Engineer',
+    link: 'https://rasa.io',
     daterange: 'May 2019 - August 2020',
     points: ['Used TypeScript, Python, Inky, SQL, and other languages to build the rasa.io self-service platform',
     'Led the UI/UX team by creating lo-fi wireframes, designs, and style guides for the rasa.io platform',
