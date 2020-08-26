@@ -2,7 +2,7 @@ const courses = [
   {
     title: 'Software Development Track',
     link: 'http://bloc.io',
-    univerity: 'Bloc',
+    univerity: 'Thinkful',
   }, {
     title: 'JavaScript Application Development',
     link: 'https://www.techtalentsouth.com/courses/javascript-application-development/',
